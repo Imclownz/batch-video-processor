@@ -1,0 +1,13 @@
+opencv-python
+pytesseract
+googles-cloud-translate
+openai
+ffmpeg-python
+pydub
+moviepy
+pillow
+pyyaml
+requests
+python-dotenv
+tqdm
+numpy
